@@ -1,0 +1,53 @@
+{
+    "name": "Inferjet",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "controller": "*",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.58",
+        "tag": "v1.12.58",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/584edd3155f56d4d2465bddaa067b5e48a37c430",
+        "target": "1.12.58",
+        "pxt": "8.5.69",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#FF2121",
+        "#EC138F",
+        "#FF8135",
+        "#FFF609",
+        "#249CA3",
+        "#78DC52",
+        "#003FAD",
+        "#87F2FF",
+        "#FF80FF",
+        "#C6CCD5",
+        "#808080",
+        "#5A5349",
+        "#34435F",
+        "#000000"
+    ]
+}
